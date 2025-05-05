@@ -49,4 +49,10 @@ This study investigates the evolutionary processes driving divergence among four
 - **Sweep detection:** `RAiSD`, `selscan (nSL)`
 
 
+## Contact
 
+For questions or collaborations:
+
+**Daly Noll**  
+dalynolll@gmail.com
+GitHub: [@dalynoll](https://github.com/dalynoll)
