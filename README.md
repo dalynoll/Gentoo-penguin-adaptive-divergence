@@ -44,7 +44,7 @@ This study investigates the evolutionary processes driving divergence among four
 
 - **Read mapping & variant calling:** `bwa`, `samtools`, `picard`, `gatk`, `bcftools`
 - **Population analyses:** `vcftools`, `plink`, `pixy`, `RAiSD`, `angsd`
-- **Phylogenetics:** `IQ-TREE`, `ASTRAL`, `STACEY`, `BEAST`, `SpeciesDelimitationAnalyser`
+- **Phylogenetics & divergence times:** `IQ-TREE`, `ASTRAL`, `BEAST2 / StarBEAST3`
 - **Morphology:** `R` with `vegan`, `ggplot2`, `factoextra`, `mvtnorm`
 - **Sweep detection:** `RAiSD`, `selscan (nSL)`
 
