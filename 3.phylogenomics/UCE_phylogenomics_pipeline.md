@@ -37,18 +37,18 @@ phyluce_probe_slice_sequence_from_genomes \
 
 ## 2. UCE filtering criteria
 Only UCE loci present in 100% of the following genomes were retained:
-**Adelie** (adel)
-**Chinstrap** (chins)
-**South Georgia** (southgeorgia)
-**Signy** (gsa10, gsa14)
-**King George Island** (p0407, p0409)
-**O'Higgins** (p0196, p0200)
-**GGV** (p0048, p0052)
-**Martillo Island** (pam10, pam1, pam3)
-**Falkland Islands** (g5, p1884)
-**Kerguelen** (15a2, 22a1, 24a1)
-**Macquarie Island** (mq9209, mq9312)
-**Crozet Islands** (cro07, cro08, p2136)
+**Adelie** (adel), 
+**Chinstrap** (chins), 
+**South Georgia** (southgeorgia), 
+**Signy** (gsa10, gsa14), 
+**King George Island** (p0407, p0409), 
+**O'Higgins** (p0196, p0200), 
+**GGV** (p0048, p0052), 
+**Martillo Island** (pam10, pam1, pam3), 
+**Falkland Islands** (g5, p1884), 
+**Kerguelen** (15a2, 22a1, 24a1), 
+**Macquarie Island** (mq9209, mq9312), 
+**Crozet Islands** (cro07, cro08, p2136), 
 **Marion Island** (gtp06, gen04, gtp12)
 
 This strict filtering ensured that all retained loci were homologous and aligned across all individuals used in the phylogenomic and divergence time analyses.
