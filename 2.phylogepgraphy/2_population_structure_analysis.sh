@@ -1,16 +1,11 @@
 
 #####################################	PCA	######################################
 
-
 plink --bfile $vcf/gentoo_no_outliers_maf05_pruned \
 --pca --out pca_maf05 --set-missing-var-ids @:# --double-id --allow-extra-chr
 
 
-
 ##################################	ADMIXTURE	##################################
-
-
-#	ADMIXTURE
 
 plink --bfile $vcf/gentoo_no_outliers_maf05_pruned \
 --recode 12 --out $vcf/gentoo_no_outliers_maf05_pruned_admix \
@@ -18,7 +13,6 @@ plink --bfile $vcf/gentoo_no_outliers_maf05_pruned \
 
 
 ################################## PAIRWISE FST ##################################
-
 #!/bin/bash
 # pop list
 localities=("CROZ.txt" "MARI.txt" "KERG.txt" "FALK.txt" "MRTI.txt" "SIGN.txt" "OHIG.txt" "KING.txt" "GGV.txt")
