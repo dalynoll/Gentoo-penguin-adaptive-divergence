@@ -20,6 +20,10 @@ This repository contains the scripts, input files, and documentation used in the
 - **5.Morphology/**  
   Raw data and statistical analyses (MANOVA, pairwise tests) of morphometric differences among gentoo penguin lineages using museum specimens.
 
+- **6.Future Niche/**
+  R script containing SDM analysis
+
+  
 - **README.md**  
   This file.
 
